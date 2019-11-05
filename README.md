@@ -1,2 +1,1 @@
-# divide
-Divide's repo
+# Divide's repo
